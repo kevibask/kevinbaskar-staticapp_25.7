@@ -39,6 +39,26 @@
             "value": "Crow's nest pillage Buccaneer jib yo-ho-ho sutler skysail red ensign ye grog. Case shot lookout wherry bilge rat run a rig dead men tell no tales port lugsail Jack Tar piracy. No prey, no pay heave to come about hempen halter handsomely to go on account brigantine lugger gangway case shot."
           }
         ]
+      },
+      {
+        "slug": "2019-10-20",
+        "headline": "The third entry",
+        "date": "Oct. 20, 2019",
+        "image": "kraken03.jpg",
+        "post": [
+          {
+            "type": "text",
+            "value": "This is the 3rd post, paragraph one, where I am testing if I can see this. You may be wondering how my day is, and I will say it has been swell."
+          },
+          {
+            "type": "text",
+            "value": "Hail-shot ahoy interloper parley me scallywag jury mast Chain Shot Plate Fleet quarter. Crack Jennys tea cup belay topgallant skysail wherry keelhaul barkadeer gally lugger clipper. Take a caulk wench lad yard nipper warp galleon long clothes Spanish Main broadside."
+          },
+          {
+            "type": "text",
+            "value": "Crow's nest pillage Buccaneer jib yo-ho-ho sutler skysail red ensign ye grog. Case shot lookout wherry bilge rat run a rig dead men tell no tales port lugsail Jack Tar piracy. No prey, no pay heave to come about hempen halter handsomely to go on account brigantine lugger gangway case shot."
+          }
+        ]
       }
     ]
   }
